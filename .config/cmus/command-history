@@ -1,0 +1,8 @@
+add /Volumes/moduloserver/Modulo/audio/music
+clear
+add /Volumes/moduloserver/Modulo/audio/music/El*
+add ~/Downloads/'El Murki'
+add EASY
+cd /Volumes/moduloserver/Modulo/audio/music
+colorscheme gruvbox
+colorscheme gruvbox-alt
