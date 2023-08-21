@@ -179,4 +179,4 @@ export PATH="/home/modulolinux/.local/bin:$PATH"
 export FOUNDRY_LICENSE_FILE="/home/modulolinux/.local/share/Foundry/Tokens"
 
 #OpenAI API Token
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY=""
