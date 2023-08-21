@@ -1,8 +1,31 @@
-add /Volumes/moduloserver/Modulo/audio/music
+q
+add /home/moduloserver/Modulo/audio/music/
+colorscheme dracula
+colorscheme default
+colorscheme zenburn
+colorscheme xterm-white
+colorscheme spotify
+colorscheme solarized-dark
+colorscheme night
+colorscheme jellybeans
+colorscheme gruvbox-warm
+colorscheme gruvbox-alt
+colorscheme amazon
+colorscheme cyan
+add /home/moduloserver/Modulo/
+update cache
+update cache -f
+update-chace -f
+update
+u
+add /home/moduloserver/Modulo/audio/music/ALM
+colorscheme gruvbox
+add /home/moduloserver/Modulo/audio/music
 clear
+manual
+man
+add /Volumes/moduloserver/Modulo/audio/music
 add /Volumes/moduloserver/Modulo/audio/music/El*
 add ~/Downloads/'El Murki'
 add EASY
 cd /Volumes/moduloserver/Modulo/audio/music
-colorscheme gruvbox
-colorscheme gruvbox-alt
